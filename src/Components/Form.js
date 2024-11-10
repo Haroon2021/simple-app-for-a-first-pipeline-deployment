@@ -4,7 +4,6 @@ import { addAndSubtract } from '../Helpers/addingAndSubtracting';
 export default function  ControlledComponent()  {
     const  [inputValue, setInputValue] =  useState(0);
     const  [inputValueTwo, setInputValueTwo] =  useState(0);
-    const [sum, setSum] = useState(0)
 
     const  handleChangeOne = (event) => {
       setInputValue(event.target.value);
