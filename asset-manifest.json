@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-app-for-a-first-pipeline-deployment/static/css/main.f855e6bc.css",
+    "main.js": "/simple-app-for-a-first-pipeline-deployment/static/js/main.c60b76da.js",
+    "static/js/453.f3f1d4a0.chunk.js": "/simple-app-for-a-first-pipeline-deployment/static/js/453.f3f1d4a0.chunk.js",
+    "index.html": "/simple-app-for-a-first-pipeline-deployment/index.html",
+    "main.f855e6bc.css.map": "/simple-app-for-a-first-pipeline-deployment/static/css/main.f855e6bc.css.map",
+    "main.c60b76da.js.map": "/simple-app-for-a-first-pipeline-deployment/static/js/main.c60b76da.js.map",
+    "453.f3f1d4a0.chunk.js.map": "/simple-app-for-a-first-pipeline-deployment/static/js/453.f3f1d4a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c60b76da.js"
+  ]
+}
