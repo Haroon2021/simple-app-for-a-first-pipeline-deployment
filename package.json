@@ -1,7 +1,7 @@
 {
   "name": "simple-app-for-a-first-pipeline-deployment",
   "version": "0.1.0",
-  "homepage": "https://Haroon2021.github.io/simple-app-for-a-first-pipeline-deployment",
+  "homepage": "https://Haroon2021.github.io/simple-app-for-a-first-pipeline-deployment/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
