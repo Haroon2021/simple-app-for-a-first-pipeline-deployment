@@ -8,6 +8,6 @@ describe('addAndSubtract function', () => {
         expect(addAndSubtract(7, 1)[1]).toBe(6);
     })
     it('should calculate 7 minus 4 to get 6', () =>{
-        expect(addAndSubtract(7, 4)[1]).toBe(3);
+        expect(addAndSubtract(7, 4)[1]).toBe(2);
     })
   });
